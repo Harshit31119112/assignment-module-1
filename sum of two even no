@@ -1,0 +1,5 @@
+step 1: take a input of the limit to sum the even no.
+step 2 : start teh loop with the 1 to the n limit 
+step 3: check whether the no. is even or not 
+step 4:if the no is even then add it to the variable s and then save it into the s vairable 
+step 5: when the loop reached the limit then end the program
