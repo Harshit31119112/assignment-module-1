@@ -1,1 +1,4 @@
-step 1: take a 
+step 1: take a input of two no.
+step 2: sum of the input two no. in the 3rd variable 
+step 3 : print the third variable 
+step 4 : End 
